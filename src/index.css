@@ -1,0 +1,18 @@
+*{
+  margin: auto;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  color:green;
+}
+
+html,
+body{
+  height: auto;
+  width: auto;
+
+}
+
+body{
+  background-color: #111;
+}
